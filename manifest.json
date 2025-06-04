@@ -1,0 +1,11 @@
+{
+	"id": "pdf-paste-sanitizer",
+	"name": "Pdf paste Sanitizer",
+	"version": "1.0.0",
+	"minAppVersion": "0.0.0",
+	"description": "Cleans up formatting when pasting text from PDFs: fixes bullets, tabs, and broken line breaks.",
+	"author": "luluxue",
+	"authorUrl": "https://github.com/lu-lu-xue",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
